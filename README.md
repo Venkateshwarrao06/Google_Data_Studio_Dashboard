@@ -6,6 +6,7 @@ Google Data Studio Link
 https://datastudio.google.com/reporting/2cad2d62-2ca8-482a-a28d-6e07baca82a4
 
 Main View:
+
 ![image](https://user-images.githubusercontent.com/87294857/180631962-762c2098-3c0c-453c-85f4-0348177bf882.png)
 
 
