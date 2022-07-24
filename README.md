@@ -5,6 +5,7 @@ Data is Sample Superstore Data
 
 # ------------------------------------------------------
 Main View:
+# ------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/87294857/180631962-762c2098-3c0c-453c-85f4-0348177bf882.png)
 
 
